@@ -1,4 +1,4 @@
-Creat Project
+Create Project
 ====================
 ```
 mkdir project-name
@@ -27,11 +27,11 @@ Add file to gitignore
 echo "filme name" >> .gitignore
 ```
 
-Creat repository and push
+Create repository and push
 =====================
 ```
 git init
-hub creat (tame)
+hub create (tame)
 git add
 git commit -m
 git push origin master
