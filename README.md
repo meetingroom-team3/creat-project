@@ -27,9 +27,13 @@ Add file to gitignore
 echo "filme name" >> .gitignore
 ```
 
-Creat repository
+Creat repository and push
 =====================
 ```
+git init
 hub creat
+git add
+git commit -m
+git push origin master
 hub browse
 ```
