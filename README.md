@@ -31,7 +31,7 @@ Creat repository and push
 =====================
 ```
 git init
-hub creat
+hub creat (tame)
 git add
 git commit -m
 git push origin master
